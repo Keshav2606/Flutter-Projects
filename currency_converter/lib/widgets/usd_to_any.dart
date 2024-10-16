@@ -37,12 +37,6 @@ class _UsdToAnyState extends State<UsdToAny> {
                 border:
                     OutlineInputBorder(borderRadius: BorderRadius.circular(8))),
           ),
-
-          Row(
-            children: [
-              
-            ],
-          )
         ],
       ),
     );
